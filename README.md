@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhaval Rupapara</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-![Github image]([https://user-images.githubusercontent.com/111775702/215590318-1350ad20-edcb-4f91-829d-6249ba179142.png](https://avatars.githubusercontent.com/u/101641877?s=400&u=cf36a8dd24cf84f5f0f5d9d101da2f34edec45be&v=4))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-patel-swg&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-patel-swg" /> </p>
 
