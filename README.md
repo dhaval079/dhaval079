@@ -17,10 +17,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/dhavalrupapara.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhavalrupapara.me" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhaval-rupapara-9b2889239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaval-rupapara-9b2889239" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22502147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22502147" height="30" width="40" /></a>
 <a href="https://kaggle.com/dhavalrupapara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhavalrupapara" height="30" width="40" /></a>
 <a href="https://instagram.com/dhaval_rupapara.09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhaval_rupapara.09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dhaval073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhaval073" height="30" width="40" /></a>
+<a href="https://discord.gg/#6514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6514" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
