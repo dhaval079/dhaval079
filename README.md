@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dhavalrupapara.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhavalrupapara.me" height="30" width="40" /></a>
+<a href="https://dhavalrupapara.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dhavalrupapara.me" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhaval-rupapara-9b2889239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaval-rupapara-9b2889239" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22502147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22502147" height="30" width="40" /></a>
 <a href="https://kaggle.com/dhavalrupapara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhavalrupapara" height="30" width="40" /></a>
