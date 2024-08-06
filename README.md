@@ -107,8 +107,10 @@
 # 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=dhaval079&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval079&theme=tokyonight&hide_border=false" />
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=dhaval079&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <br>
+  <br>
+  <img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval079&theme=tokyonight&hide_border=false" />
 </div>
 
 <br>
