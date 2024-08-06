@@ -13,7 +13,6 @@
   </a>
 </div>
 <br>
-<br>
 
 #  About Me:
 <div align="center">
