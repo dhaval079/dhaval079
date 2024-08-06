@@ -109,11 +109,11 @@
 # 📊 GitHub Activity
 
 <div align="center">
-  <br>
-  <img height="150em" width="40%" src="https://github-readme-stats.vercel.app/api?username=dhaval079&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="150em" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval079&theme=tokyonight&hide_border=false" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=dhaval079&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval079&theme=tokyonight&hide_border=false" />
 </div>
 
+<br>
 <br>
 <br>
 
