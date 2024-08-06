@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="output-onlinegiftools.gif" alt="Welcome GIF" width="100%"/>
+  <img src="output-onlinegiftools.gif" alt="Welcome GIF" width="100%" height="450"/>
 </div>
 
 <div align="center">
