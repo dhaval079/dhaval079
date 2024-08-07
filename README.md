@@ -3,8 +3,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Welcome GIF" width="100%" />
 </div>
 
+
 <div align="center">
-  <h1>👋 Hi I'm Dhaval </h1> 
+  <h1>Hi There, I'm Dhaval <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+ </h1> 
 </div>
 
 <div align="center">
@@ -12,9 +14,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=3pt&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;AI+%7C+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
-<br>
 
-#  About Me:
+# <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="40" height="40"/> About Me
 <div align="center">
   <br>
   <img align="right" src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="20%"/>
@@ -29,9 +30,9 @@
 </div>
 
 <br>
-<br>
 
-#  Skills:
+# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40" height="40"/> Skills :
+
 <div align="center">
   <br>
   <!-- Row 1 -->
@@ -102,9 +103,8 @@
   </div>
 </div>
 <br>
-<br>
 
-# 📊 GitHub Activity
+# <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="40" height="40"/> Github Activity
 
 <div align="center">
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=dhaval079&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
@@ -117,7 +117,8 @@
 <br>
 <br>
 
-# 🤝 Connect With Me
+# <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" height="40"/> Connect With Me
+
 
 <p align="center">
   <br>
@@ -140,7 +141,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
-<br>
 <br>
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=dhaval079&icon=0&color=0" alt="Profile Views"/>
