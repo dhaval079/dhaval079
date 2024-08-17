@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Welcome GIF" width="100%" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/101641877/358835138-b30ef71c-dfdc-4c3c-99e4-54f48304dca4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240817T085134Z&X-Amz-Expires=300&X-Amz-Signature=b3a7fddb7a5ef401a0065170b9b03e356650ccc7887b325c22a092f6212ee631&X-Amz-SignedHeaders=host&actor_id=101641877&key_id=0&repo_id=752167227" alt="Welcome GIF" width="100%" />
 </div>
 
 
