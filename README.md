@@ -15,7 +15,7 @@
   </a>
 </div>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="40" height="40"/> About Me
+# About Me
 <div align="center">
   <br>
   <img align="right" src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="20%"/>
@@ -31,7 +31,7 @@
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="40" height="40"/> Skills :
+# Skills :
 
 <div align="center">
   <br>
