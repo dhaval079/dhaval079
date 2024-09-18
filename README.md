@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <h1>Hi There, I'm Dhaval <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+  <h1>Hi , I'm Dhaval <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
  </h1> 
 </div>
 
