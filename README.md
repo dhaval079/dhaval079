@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Welcome GIF" width="100%" />
+  <img src="https://camo.githubusercontent.com/5025583286733d11f8e7e1e7151301932dfce4ece5bb33a2405031b862e143cf/68747470733a2f2f64726a706c6f7065732e636f6d2f6d656469612f426c6f6742616e6e6572732f48656c6c6f2d576f726c645f42616e6e65722e706e67" alt="Welcome GIF" width="100%" height="250" />
 </div>
 
 
