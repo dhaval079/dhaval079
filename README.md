@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/5025583286733d11f8e7e1e7151301932dfce4ece5bb33a2405031b862e143cf/68747470733a2f2f64726a706c6f7065732e636f6d2f6d656469612f426c6f6742616e6e6572732f48656c6c6f2d576f726c645f42616e6e65722e706e67" alt="Welcome GIF" width="100%" height="250" />
+<!--   <img src="https://camo.githubusercontent.com/5025583286733d11f8e7e1e7151301932dfce4ece5bb33a2405031b862e143cf/68747470733a2f2f64726a706c6f7065732e636f6d2f6d656469612f426c6f6742616e6e6572732f48656c6c6f2d576f726c645f42616e6e65722e706e67" alt="Welcome GIF" width="100%" height="250" /> -->
 </div>
 
 
 <div align="center">
-  <h1>Hi , I'm Dhaval <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+  <h1>Hello , I'm Dhaval
  </h1> 
 </div>
 
@@ -18,7 +18,7 @@
 # About Me
 <div align="center">
   <br>
-  <img align="right" src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="20%"/>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="20%"/>
 <div align="left">
 
   - 🔭 I'm currently working on **Backend Development**
@@ -122,7 +122,7 @@
 
 <p align="center">
   <br>
-  <a href="https://linkedin.com/in/dhaval-rupapara-9b2889239" target="_blank">
+  <a href="https://linkedin.com/in/dhaval-rupapara/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/22502147" target="_blank">
