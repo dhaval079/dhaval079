@@ -5,13 +5,13 @@
 
 
 <div align="center">
-  <h1>Hello , I'm Dhaval
+  <h1>Hi , I'm Dhaval
  </h1> 
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=3pt&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;AI+%7C+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&letterSpacing=2pt&duration=5000&pause=1500&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;AI+%7C+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
