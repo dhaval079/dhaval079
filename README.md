@@ -18,8 +18,8 @@
 # About Me
 <div align="center">
   <br>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="20%"/>
-<div align="left">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30%"/>
+<div align="left" width="100%">
 
   - 🔭 I'm currently working on **Backend Development**
   - 💬 Ask me about **DSA, Web Development**
