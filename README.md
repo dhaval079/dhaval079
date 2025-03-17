@@ -1,5 +1,12 @@
 # Dhaval Rupapara
 
+<div align="center">
+  <img src="https://img.shields.io/github/followers/dhaval079?style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/dhaval079?style=flat-square&color=blue" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=dhaval079&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/last-commit/dhaval079/dhaval079?style=flat-square&color=blue" alt="Last commit" />
+</div>
+
 ## Software Engineer & Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-rupapara/)
@@ -77,16 +84,54 @@ Dedicated Software Engineer with expertise in full-stack development, specializi
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaval079&show_icons=true&hide_border=true&count_private=true&hide=issues&theme=default)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhaval079&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaval079&hide_border=true&theme=default" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaval079&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaval079&layout=compact&hide_border=true&theme=default)
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhaval079&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaval079&theme=minimal&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 ## Featured Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=dhaval079&repo=project1&theme=default)](https://github.com/dhaval079/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=dhaval079&repo=project2&theme=default)](https://github.com/dhaval079/project2)
+<div align="center">
+  <a href="https://github.com/dhaval079/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhaval079&repo=project1&theme=default&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/dhaval079/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhaval079&repo=project2&theme=default&hide_border=true" alt="Project 2" />
+  </a>
+</div>
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🔍 Opened pull request in Repository A
+2. 🎉 Merged pull request in Repository B
+3. 💻 Committed 20+ times to Repository C
+4. 🐛 Fixed issues in Repository D
+5. 📦 Released version 2.0.0 of Repository E
+<!--END_SECTION:activity-->
+
+## Contribution Metrics
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhaval079&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
+</div>
 
 ---
 
@@ -99,6 +144,25 @@ I specialize in developing enterprise-grade web applications with a focus on sca
 - Building responsive and accessible frontend interfaces
 - Deploying and managing cloud infrastructure
 - Applying DevOps principles for efficient CI/CD pipelines
+
+## GitHub Workflow
+
+```mermaid
+graph TD
+    A[Code Development] -->|Commit| B[Pull Request]
+    B -->|Code Review| C{Approved?}
+    C -->|Yes| D[Merge to Main]
+    C -->|No| A
+    D -->|Automatic| E[CI/CD Pipeline]
+    E -->|Tests Pass| F[Deploy to Production]
+    E -->|Tests Fail| A
+```
+
+## Coding Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhaval079&hide_border=true&layout=compact&theme=default" alt="Wakatime Stats" />
+</div>
 
 ---
 
