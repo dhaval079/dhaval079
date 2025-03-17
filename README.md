@@ -161,18 +161,7 @@ Dedicated Software Engineer with expertise in full-stack development, specializi
   </picture>
 </div>
 
----
 
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/dhaval079/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhaval079&repo=project1&theme=default&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/dhaval079/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhaval079&repo=project2&theme=default&hide_border=true" alt="Project 2" />
-  </a>
-</div>
 
 ##  Recent GitHub Activity
 
