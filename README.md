@@ -59,23 +59,36 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <h4>Languages</h4>
+      <h4>Programming Languages</h4>
       <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,php&theme=light" />
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-Advanced-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-Expert-3776ab?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td align="center" width="25%">
-      <h4>Frontend</h4>
+      <h4>Frontend Technologies</h4>
       <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,threejs&theme=light" />
+      <br><br>
+      <img src="https://img.shields.io/badge/React-Advanced-61dafb?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     </td>
     <td align="center" width="25%">
-      <h4>Backend</h4>
+      <h4>Backend Frameworks</h4>
       <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&theme=light" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-Advanced-092e20?style=flat-square&logo=django&logoColor=white" />
     </td>
     <td align="center" width="25%">
       <h4>Database & Cloud</h4>
       <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws,azure,gcp&theme=light" />
+      <br><br>
+      <img src="https://img.shields.io/badge/MongoDB-Expert-47a248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-Certified-ff9900?style=flat-square&logo=amazonaws&logoColor=white" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
