@@ -2,16 +2,6 @@
 
 # **Dhaval Rupapara**
 
-### Software Engineer & Full Stack Developer
-
-<div>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-rupapara/)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22502147)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://www.leetcode.com/dhaval073)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rupaparadhaval1234@gmail.com)
-  
-</div>
 
 </div>
 
@@ -286,6 +276,16 @@
 </table>
 
 <br>
+
+<div>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-rupapara/)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22502147)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://www.leetcode.com/dhaval073)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rupaparadhaval1234@gmail.com)
+  
+</div>
+
 
 <div>
   
