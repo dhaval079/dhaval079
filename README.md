@@ -1,27 +1,10 @@
 <div align="center">
-
-# **Dhaval Rupapara**
-
-### Software Engineer
-
-
-<div>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-rupapara/)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22502147)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://www.leetcode.com/dhaval073)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rupaparadhaval1234@gmail.com)
+## Software Developer 
   
 </div>
-
-
-</div>
-
----
 
 <div align="center">
-
-## **Professional Overview**
 
 <table border="0">
   <tr>
@@ -158,26 +141,26 @@
 
 <div align="center">
 
-## **Core Competencies**
+## **Core**
 
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <h3>🎯 Development Excellence</h3>
+      <h3>Development Excellence</h3>
       <table>
-        <tr><td><strong>🔧 Full Stack Development</strong></td><td>End-to-end application creation</td></tr>
-        <tr><td><strong>🏗️ System Architecture</strong></td><td>Scalable solution design</td></tr>
-        <tr><td><strong>📊 Database Engineering</strong></td><td>Optimization & performance tuning</td></tr>
-        <tr><td><strong>🔄 DevOps Implementation</strong></td><td>CI/CD & automation</td></tr>
+        <tr><td><strong>Full Stack Development</strong></td><td>End-to-end application creation</td></tr>
+        <tr><td><strong>System Architecture</strong></td><td>Scalable solution design</td></tr>
+        <tr><td><strong>Database Engineering</strong></td><td>Optimization & performance tuning</td></tr>
+        <tr><td><strong>DevOps Implementation</strong></td><td>CI/CD & automation</td></tr>
       </table>
     </td>
     <td align="center" width="50%">
-      <h3>💼 Business Impact</h3>
+      <h3>Business Impact</h3>
       <table>
-        <tr><td><strong>📈 Performance Optimization</strong></td><td>40% improvement in response times</td></tr>
-        <tr><td><strong>☁️ Cloud Migration</strong></td><td>Enterprise infrastructure scaling</td></tr>
-        <tr><td><strong>🛡️ Security Implementation</strong></td><td>Authentication & authorization</td></tr>
-        <tr><td><strong>👥 Team Leadership</strong></td><td>Code reviews & mentoring</td></tr>
+        <tr><td><strong>Performance Optimization</strong></td><td>40% improvement in response times</td></tr>
+        <tr><td><strong>Cloud Migration</strong></td><td>Enterprise infrastructure scaling</td></tr>
+        <tr><td><strong>Security Implementation</strong></td><td>Authentication & authorization</td></tr>
+        <tr><td><strong>Team Leadership</strong></td><td>Code reviews & mentoring</td></tr>
       </table>
     </td>
   </tr>
@@ -189,7 +172,7 @@
 
 <div align="center">
 
-## **Development Activity**
+## **Development**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaval079&theme=github-compact&hide_border=true&area=true&bg_color=ffffff&color=2563eb&line=2563eb&point=1f2937&border_radius=15" />
 
@@ -265,30 +248,6 @@
 ---
 
 <div align="center">
-
-## **Professional Network**
-
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🤝 Let's Collaborate</h3>
-      <p>I'm passionate about discussing <strong>innovative technologies</strong>,<br>
-      <strong>scalable architectures</strong>, and <strong>impactful projects</strong> that<br>
-      drive business transformation.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>💡 Areas of Interest</h3>
-      <p><strong>• Enterprise Software Development</strong><br>
-      <strong>• Cloud Architecture & DevOps</strong><br>
-      <strong>• Open Source Contributions</strong><br>
-      <strong>• Technical Leadership</strong></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-
 <div>
   
   [![GitHub followers](https://img.shields.io/github/followers/dhaval079?style=flat&logo=github&logoColor=white&labelColor=f8fafc&color=2563eb)](https://github.com/dhaval079?tab=followers)
@@ -324,16 +283,16 @@
 
 </div>
 
----
+<div>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-rupapara/)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22502147)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://www.leetcode.com/dhaval073)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rupaparadhaval1234@gmail.com)
+  
+</div>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-**Thank you for exploring my profile**
-
-*Open to discussing exciting opportunities in software engineering,*  
-*system architecture, and technology innovation*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=60&section=footer" width="100%"/>
 
